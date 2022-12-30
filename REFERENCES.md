@@ -31,3 +31,7 @@
 - [Chaos engineering – when, where and how to use it - TechHQ](https://techhq.com/2020/07/chaos-engineering-when-where-and-how-to-use-it/)
 
 - [Chaos Engineering - Gremlin](https://www.gremlin.com/community/tutorials/chaos-engineering-the-history-principles-and-practice/)
+
+- [Turing - Chaos Engineering](https://www.turing.com/blog/chaos-engineering-and-its-benefits/#:~:text=Organizations%20must%20effectively%20utilize%20Chaos,and%20build%20reliable%20software%20applications.)
+
+- [Turing - What is Chaos Engineering and benefits](https://www.turing.com/blog/chaos-engineering-and-its-benefits/)
