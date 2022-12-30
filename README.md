@@ -11,7 +11,8 @@
 
 <p>Curated resources to learn and study Chaos Engineering.</p>
 
-- [References](RESOURCES.md)
+- [References](REFERENCES.md)
+- [Text information](TEXT.md)
 
 ## Technologies
 

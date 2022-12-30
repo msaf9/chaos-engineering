@@ -29,3 +29,5 @@
 - [A Practical Guide to Chaos Engineering](https://www.cigniti.com/blog/guide-chaos-engineering/)
 
 - [Chaos engineering – when, where and how to use it - TechHQ](https://techhq.com/2020/07/chaos-engineering-when-where-and-how-to-use-it/)
+
+- [Chaos Engineering - Gremlin](https://www.gremlin.com/community/tutorials/chaos-engineering-the-history-principles-and-practice/)
