@@ -17,6 +17,7 @@
 ## Technologies
 
 - Markdown
+- HTML
 
 ## Project Status
 
