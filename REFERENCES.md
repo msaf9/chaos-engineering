@@ -1,5 +1,11 @@
 # References
 
+## Amazon
+
+- [Increase your e-commerce website reliability using chaos engineering and AWS Fault Injection Simulator | Amazon Web Services](https://aws.amazon.com/blogs/devops/increase-e-commerce-reliability-using-chaos-engineering-with-aws-fault-injection-simulator/)
+
+---
+
 ## GitHub
 
 - [GitHub - dastergon/awesome-chaos-engineering: A curated list of Chaos Engineering resources.](https://github.com/dastergon/awesome-chaos-engineering#conferences--meetups)
@@ -24,11 +30,15 @@
 
 - [Thoughtworks XConf Tech Talk Series: Resilience with chaos engineering](https://economictimes.indiatimes.com/tech/technology/thoughtworks-xconf-tech-talk-series-resilience-with-chaos-engineering/articleshow/87737394.cms?from=mdr)
 
+---
+
+## Oreilly
+
 - [Chaos engineering - Oreilly](https://www.oreilly.com/content/chaos-engineering/)
 
-- [Chaos Engineering - Devopedia](https://devopedia.org/chaos-engineering)
+---
 
-- [Increase your e-commerce website reliability using chaos engineering and AWS Fault Injection Simulator | Amazon Web Services](https://aws.amazon.com/blogs/devops/increase-e-commerce-reliability-using-chaos-engineering-with-aws-fault-injection-simulator/)
+- [Chaos Engineering - Devopedia](https://devopedia.org/chaos-engineering)
 
 - [Chaos Engineering for eCommerce: Delivering best Customer Experience | Chaos Engineering Services](https://www.youtube.com/watch?v=K1DTUPW_es0&ab_channel=RoyalCyberInc)
 
