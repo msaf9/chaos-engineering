@@ -12,7 +12,11 @@
 
 ---
 
+## Netflix
+
 - [Chaos Engineering Upgraded](https://netflixtechblog.com/chaos-engineering-upgraded-878d341f15fa)
+
+---
 
 - [https://thenewstack.io/chaos-engineering-made-simple/](https://thenewstack.io/chaos-engineering-made-simple/)
 
@@ -22,7 +26,7 @@
 
 ---
 
-## virtusa
+## Virtusa
 
 - [Chaos engineering: A step toward reliability](https://www.virtusa.com/perspectives/article/chaos-engineering)
 
