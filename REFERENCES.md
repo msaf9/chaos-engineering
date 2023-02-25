@@ -5,6 +5,8 @@
 - [Common Logistics Technology Issues](https://www.mktalt.com/Blogs/common-logistics-technology-issues-and-their-causes.html)
 - [HBS - FedEx](https://d3.harvard.edu/platform-rctom/submission/fedex-the-next-big-challenge/)
 - [RESEARCH STUDY ON RISKS IN TRANSPORTATION AND LOGISTICS INDUSTRY (FEDEX)](https://grm.institute/blog/research-study-on-risks-in-transportation-and-logistics-industry-fedex/)
+- [10 Biggest Challenges Faced By Logistics Companies](https://stockarea.io/blogs/10-crucial-challenges-faced-by-logistics-companies/)
+- [FedEx Data Centers, Mainframes Shuttering in 100% Cloud Move](https://futurumresearch.com/research-notes/fedex-data-centers-mainframes-shuttering-in-100-cloud-move/)
 
 ---
 
