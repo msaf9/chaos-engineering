@@ -1,5 +1,13 @@
 # References
 
+## Failures in Logistics
+
+- [Common Logistics Technology Issues](https://www.mktalt.com/Blogs/common-logistics-technology-issues-and-their-causes.html)
+- [HBS - FedEx](https://d3.harvard.edu/platform-rctom/submission/fedex-the-next-big-challenge/)
+- [RESEARCH STUDY ON RISKS IN TRANSPORTATION AND LOGISTICS INDUSTRY (FEDEX)](https://grm.institute/blog/research-study-on-risks-in-transportation-and-logistics-industry-fedex/)
+
+---
+
 ## Amazon
 
 - [Increase your e-commerce website reliability using chaos engineering and AWS Fault Injection Simulator | Amazon Web Services](https://aws.amazon.com/blogs/devops/increase-e-commerce-reliability-using-chaos-engineering-with-aws-fault-injection-simulator/)
