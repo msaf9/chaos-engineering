@@ -13,11 +13,11 @@
 ## FedEx
 
 - [RESEARCH STUDY ON RISKS IN TRANSPORTATION AND LOGISTICS INDUSTRY (FEDEX)](https://grm.institute/blog/research-study-on-risks-in-transportation-and-logistics-industry-fedex/)
+- [FedEx Data Centers, Mainframes Shuttering in 100% Cloud Move](https://futurumresearch.com/research-notes/fedex-data-centers-mainframes-shuttering-in-100-cloud-move/)
 
 ---
 
 - [10 Biggest Challenges Faced By Logistics Companies](https://stockarea.io/blogs/10-crucial-challenges-faced-by-logistics-companies/)
-- [FedEx Data Centers, Mainframes Shuttering in 100% Cloud Move](https://futurumresearch.com/research-notes/fedex-data-centers-mainframes-shuttering-in-100-cloud-move/)
 
 ---
 
