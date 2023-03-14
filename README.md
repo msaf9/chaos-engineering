@@ -21,7 +21,7 @@
 
 ## Project Status
 
-> WIP
+> Completed
 
 ## Installation
 
@@ -33,3 +33,5 @@ cd ChaosEngineering
 ```
 
 ## License
+
+<p>None</p>
