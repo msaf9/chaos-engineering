@@ -28,8 +28,8 @@
 ### Get repository
 
 ```git
-git clone https://github.com/msaf9/ChaosEngineering.git
-cd ChaosEngineering
+git clone https://github.com/msaf9/chaos-engineering.git
+cd chaos-engineering
 ```
 
 ## License
