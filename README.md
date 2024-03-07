@@ -1,7 +1,9 @@
 <h1>Chaos Engineering</h1>
 
+<h2>Table of contents</h2>
+
 - [Introduction](#introduction)
-- [Technologies](#technologies)
+- [Markup Languages](#markup-languages)
 - [Project Status](#project-status)
 - [Installation](#installation)
   - [Get repository](#get-repository)
@@ -14,7 +16,7 @@
 - [References](REFERENCES.md)
 - [Text information](TEXT.md)
 
-## Technologies
+## Markup Languages
 
 - Markdown
 - HTML
